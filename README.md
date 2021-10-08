@@ -1,7 +1,7 @@
 # Contratos
 > Sistema desenvolvido em PHP com o framework Codeigniter. Principal função do sistema é o cadastro dos contratos de empréstimos e os clientes.
 
-![](https://github.com/jonatasgama/contratos/blob/main/img/print.png)
+![](https://github.com/jonatasgama/contratos/blob/main/img/principal.png)
 
 ## Funcionalidades
 - [x] Adicionar contrato
