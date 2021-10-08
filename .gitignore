@@ -1,9 +1,5 @@
 .DS_Store
 
-financeirors.sql
-financeirors(1).sql
-financeirors(2).sql
-
 application/cache/*
 !application/cache/index.html
 
